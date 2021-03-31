@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Cx3PhDHG/banner.png" width="100%">
+# Matteo Lobello
 
 Hi there, I'm Matteo, a passionate software developer based in Italy.
 
