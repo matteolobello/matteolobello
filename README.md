@@ -2,16 +2,12 @@
 
 Hi there, I'm Matteo, a passionate software developer based in Italy.
 
----
-
 ## Get in touch
 
 - Personal Website: [https://matteolobello.it](https://matteolobello.it)
 - LinkedIn: https://linkedin.com/in/matteolobello
 
 ## Tech Stack
-
----
 
 <p align="left">
 	<a href="https://developer.android.com" target="_blank">
