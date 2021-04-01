@@ -205,7 +205,7 @@ Hi there, I'm Matteo, a passionate software developer based in Italy.
 	</a>
 	<a href="https://redis.io" target="_blank">
 		<img
-			src="https://simpleicons.org/icons/redis.svg"
+			src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
 			alt="redis"
 			width="48"
 			height="48"
